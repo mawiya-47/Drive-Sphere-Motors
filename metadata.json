@@ -1,0 +1,6 @@
+{
+  "name": "DriveSphere Motors",
+  "description": "World-class premium automotive hub of DriveSphere Motors, featuring dynamic vehicle showcases, intelligent finance calculator, dealer locator, AI recommendations, and service portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
